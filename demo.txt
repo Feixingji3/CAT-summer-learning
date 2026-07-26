@@ -1,9 +1,1 @@
-分支测试文本：main版本
-=======
-分支测试文本：feature版本
-
-分支测试文本：合并完成最终版本
-
-VSCode可视化Git操作
-
 分支测试文本：feature/vscode-test版本
