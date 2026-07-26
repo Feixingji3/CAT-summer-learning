@@ -8,3 +8,5 @@ VSCode可视化Git操作
 分支测试文本：feature/vscode-test版本
 
 完成测试
+
+A:添加新内容
